@@ -1,0 +1,146 @@
+{
+  "txt": {
+    "PP-txt--Tesseract-BIN-txt": {
+      "jaccard": [
+        0.5099324723005311
+      ],
+      "braycurtis": [
+        0.17185758082497213
+      ],
+      "dice": [
+        0.34222104892643435
+      ],
+      "cosinus": [
+        0.03660074073225583
+      ]
+    }
+  },
+  "-concat.json": {
+    "spacy-md-concat--spacy-sm-concat": {
+      "jaccard": [
+        0.7619926199261993
+      ],
+      "braycurtis": [
+        0.5887323943661972
+      ],
+      "dice": [
+        0.6154992548435171
+      ],
+      "cosinus": [
+        0.5466695481316561
+      ]
+    },
+    "spacy-md-concat--spacy-lg-concat": {
+      "jaccard": [
+        0.6462513199577613
+      ],
+      "braycurtis": [
+        0.4115876598946576
+      ],
+      "dice": [
+        0.47737909516380655
+      ],
+      "cosinus": [
+        0.15145105245690937
+      ]
+    },
+    "spacy-md-concat--spacy-md-concat": {
+      "jaccard": [
+        0.8569364161849711
+      ],
+      "braycurtis": [
+        0.5688722430295464
+      ],
+      "dice": [
+        0.7496839443742098
+      ],
+      "cosinus": [
+        0.35499287068041874
+      ]
+    },
+    "spacy-sm-concat--spacy-lg-concat": {
+      "jaccard": [
+        0.7577639751552795
+      ],
+      "braycurtis": [
+        0.5474504249291785
+      ],
+      "dice": [
+        0.61
+      ],
+      "cosinus": [
+        0.4766610105296568
+      ]
+    },
+    "spacy-sm-concat--spacy-md-concat": {
+      "jaccard": [
+        0.8933500627352572
+      ],
+      "braycurtis": [
+        0.7142857142857143
+      ],
+      "dice": [
+        0.8072562358276644
+      ],
+      "cosinus": [
+        0.6871267443529464
+      ]
+    },
+    "spacy-sm-concat--spacy-sm-concat": {
+      "jaccard": [
+        0.8235294117647058
+      ],
+      "braycurtis": [
+        0.6561829878484632
+      ],
+      "dice": [
+        0.7
+      ],
+      "cosinus": [
+        0.6788789765033729
+      ]
+    },
+    "spacy-lg-concat--spacy-md-concat": {
+      "jaccard": [
+        0.8858773181169758
+      ],
+      "braycurtis": [
+        0.6395793499043977
+      ],
+      "dice": [
+        0.795134443021767
+      ],
+      "cosinus": [
+        0.37152742144233886
+      ]
+    },
+    "spacy-lg-concat--spacy-sm-concat": {
+      "jaccard": [
+        0.9089805825242718
+      ],
+      "braycurtis": [
+        0.7263064658990257
+      ],
+      "dice": [
+        0.8331479421579533
+      ],
+      "cosinus": [
+        0.5499744557806298
+      ]
+    },
+    "spacy-lg-concat--spacy-lg-concat": {
+      "jaccard": [
+        0.8677462887989204
+      ],
+      "braycurtis": [
+        0.6107899807321773
+      ],
+      "dice": [
+        0.766388557806913
+      ],
+      "cosinus": [
+        0.3534315297918863
+      ]
+    }
+  }
+}
